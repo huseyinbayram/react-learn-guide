@@ -16,6 +16,9 @@
   color: white;
   cursor: pointer;
   font: inherit;
+  border-radius: 5px;
+  border: 1px solid #222;
+  box-shadow: 0 3px 4px 0px #ccc;
 }
 
 .App button:hover {
